@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1021629876426",
+    "project_id": "sellusapp",
+    "storage_bucket": "sellusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021629876426:android:3cf6c15af3dbc5b2a24c33",
+        "android_client_info": {
+          "package_name": "com.example.sellus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021629876426-j1uitdf2c5b8s0r4r7h4kqjm78604gh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellus",
+            "certificate_hash": "67a403f81d0842b10ab4f1ddf3a6c9e252322929"
+          }
+        },
+        {
+          "client_id": "1021629876426-5nucpl8r14d8ouvuc4lcic3dbvflc3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRH7eBeg6g6z5774Yvse7yNCW7LrqX8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021629876426-5nucpl8r14d8ouvuc4lcic3dbvflc3cs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021629876426-dtj8kbt2ngbnrbc3loi76ta9gaks5p85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellus.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021629876426:android:7863b8d02d14c34da24c33",
+        "android_client_info": {
+          "package_name": "com.example.sellusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021629876426-5nucpl8r14d8ouvuc4lcic3dbvflc3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRH7eBeg6g6z5774Yvse7yNCW7LrqX8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021629876426-5nucpl8r14d8ouvuc4lcic3dbvflc3cs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021629876426-dtj8kbt2ngbnrbc3loi76ta9gaks5p85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellus.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
